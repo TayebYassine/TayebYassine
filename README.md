@@ -9,6 +9,12 @@ I usually program in **The C Programming Language**, **Java 21**, and **TypeScri
 ## Statistics
 
 <div align="center" dir="auto">
+    <img src="https://githubcard.com/TayebYassine.svg" />
+</div>
+<!-- Removed due to Github Readme stats being down -->
+<!--
+<div align="center" dir="auto">
     <img src="https://github-readme-stats.vercel.app/api?username=tayebyassine&layout=compact&show_icons=true&theme=dark"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tayebyassine&layout=compact&show_icons=true&theme=dark" />
 </div>
+-->
