@@ -1,6 +1,6 @@
 Hello there, I'm **Tayeb Yassine**, a university student and a self-taught software developer. I love making open-source projects because it's a wonderful way to collaborate with others, build experience, and share my work.
 
-I usually program in **The C Programming Language**, **Java 21**, and **TypeScript**.
+I usually program in **C**, **C++**, **Java**, and **TypeScript**.
 
 <img src="https://skillicons.dev/icons?icons=c,cpp,java,javascript,typescript,python" /><br>
 <img src="https://skillicons.dev/icons?icons=sqlite,mysql,postgresql,cassandra,redis" /><br>
