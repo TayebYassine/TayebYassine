@@ -6,11 +6,15 @@ I usually program in **C**, **C++**, **Java**, and **TypeScript**.
 <img src="https://skillicons.dev/icons?icons=sqlite,mysql,postgresql,cassandra,redis" /><br>
 <img src="https://skillicons.dev/icons?icons=github,git,nodejs,maven,vscode,illustrator,photoshop,windows,linux,ubuntu,bsd" />
 
+<!-- Removed because useless -->
+<!--
 ## Statistics
 
 <div align="center" dir="auto">
     <img src="https://githubcard.com/TayebYassine.svg" />
 </div>
+-->
+
 <!-- Removed due to Github Readme stats being down -->
 <!--
 <div align="center" dir="auto">
